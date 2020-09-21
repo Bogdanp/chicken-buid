@@ -1,0 +1,6 @@
+((synopsis "An implementation of buids for Chicken Scheme.")
+ (author "Bogdan Popa <bogdan@defn.io>")
+ (license "BSD")
+ (version "0.0.0")
+ (dependencies srfi-69)
+ (components (extension buid)))

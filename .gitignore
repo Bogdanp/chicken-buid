@@ -1,0 +1,5 @@
+*.import.*
+*.o
+*.so
+buid.build.sh
+buid.install.sh
